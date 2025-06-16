@@ -59,9 +59,9 @@ Robot telah kami setting untuk dapat melakukan identifikasi sampah organik dan a
 # Video Uji Coba Sampah Anogranik
 Robot akan berbelok ke arah kiri setelah mengidentifikasi benda yang berada di depannya merupakan sampah anorganik.
 
-![Dokumentasi uji coba](Deteksi-Sampah-Anorganik.mp4)
+![Deteksi Sampah Anorganik](Deteksi-Sampah-Anorganik.mp4)
 
 # Video Uji Coba Sampah Organik
 Robot akan berbelok ke arah kanan setelah mengidentifikasi benda yang berada di depannya merupakan sampah organik.
 
-![Deteksi Sampah Organik](https://drive.google.com/file/d/1FPQWH3g5lTDdivJszijLH0LcSJLiGAn7/view?usp=sharing)
+![Deteksi Sampah Organik](Deteksi-Sampah-Organik.mp4)
