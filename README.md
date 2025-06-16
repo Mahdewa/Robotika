@@ -50,4 +50,4 @@ Pada pertemuan ketujuh mata kuliah robotik, kami mencoba mengendalikan robot BNU
 
 # Pada Minggu 4 :
 Uji coba program computer vision yang telah dibuat dengan robot BNU V2.
-![Dokumentasi uji coba](Foto Bersama Robotik.jpg)
+![Dokumentasi uji coba](Foto-Bersama-Robotik.jpg)
