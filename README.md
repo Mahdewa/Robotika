@@ -50,4 +50,18 @@ Pada pertemuan ketujuh mata kuliah robotik, kami mencoba mengendalikan robot BNU
 
 # Pada Minggu 4 :
 Uji coba program computer vision yang telah dibuat dengan robot BNU V2.
+
 ![Dokumentasi uji coba](Foto-Bersama-Robotik.jpg)
+
+Hasil Uji Coba:
+Robot telah kami setting untuk dapat melakukan identifikasi sampah organik dan anorganik. Ketika robot mendapati sampah anorganik berada di depannya, maka robot akan berbelok ke arah kiri. Sebaliknya, ketika robot mendapati sampah organik berada di depannya, maka robot akan berbelok ke arah kanan.
+
+# Video Uji Coba Sampah Anogranik
+Robot akan berbelok ke arah kiri setelah mengidentifikasi benda yang berada di depannya merupakan sampah anorganik.
+
+![Dokumentasi uji coba](Deteksi-Sampah-Anorganik.mp4)
+
+# Video Uji Coba Sampah Organik
+Robot akan berbelok ke arah kanan setelah mengidentifikasi benda yang berada di depannya merupakan sampah organik.
+
+![Dokumentasi uji coba](Deteksi-Sampah-Organik.mp4)
