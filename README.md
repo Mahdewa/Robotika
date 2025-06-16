@@ -64,4 +64,4 @@ Robot akan berbelok ke arah kiri setelah mengidentifikasi benda yang berada di d
 # Video Uji Coba Sampah Organik
 Robot akan berbelok ke arah kanan setelah mengidentifikasi benda yang berada di depannya merupakan sampah organik.
 
-![Dokumentasi uji coba](Deteksi-Sampah-Organik.mp4)
+![Deteksi Sampah Organik](https://drive.google.com/file/d/1FPQWH3g5lTDdivJszijLH0LcSJLiGAn7/view?usp=sharing)
