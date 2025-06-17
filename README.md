@@ -9,7 +9,7 @@ Pada pertemuan pertama mata kuliah robotik, seperti kegiatan awal pertemuan sepe
 Pada pertemuan kedua mata kuliah robotik, kegiatan pembelajaran difokuskan pada pengenalan dan instalasi Arduino IDE sebagai platform utama dalam pemrograman mikrokontroler. Selain itu, kami juga mempelajari bagaimana cara melakukan instalasi beberapa library penting yang akan digunakan dalam pengerjaan project pada mata kuliah robotik, serta bagaimana konfigurasi beberapa setup yang diperlukan.
 
 # Pertemuan Ketiga
-[Praktik Arduino IDE dengan ITCLab #1]
+[Praktik Arduino IDE dengan ITCLab]
 Pada pertemuan keempat mata kuliah robotik, diisi dengan praktik langsung menggunakan ITCLab, Disini kami mencoba untuk melakukan running program yang telah disediakan untuk menghidupkan dan mematikan LED. Pertemuan ini berfokus pada pemahaman konsep dasar pin digital pada Arduino IDE serta proses upload program ke board melalui ITCLab.
 
 # Pertemuan Keempat
